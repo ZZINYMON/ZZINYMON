@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+<a href="mailto:zziny725@icloud.com">
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=66BB6A&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=D4E157&height=150&section=header" />
 
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
