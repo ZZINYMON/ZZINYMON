@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-<a href="mailto:zziny725@icloud.com">
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=egg&color=D4E157&height=150&section=header" />
-
+<a href="mailto:zziny725@icloud.com">
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
