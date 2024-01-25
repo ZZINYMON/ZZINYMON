@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=egg&color=D4E157&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=D4E157&height=100&section=header" />
 
 My mail📮 : zziny725@icloud.com
 <a href="mailto:zziny725@icloud.com">
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=CDDC39&height=100&section=footer" />
