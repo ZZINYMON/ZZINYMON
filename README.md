@@ -1,4 +1,4 @@
-### I'm your energy 👋
+### I'm your energy 👋ㅁ
 
 <!--
 **ZZINYMON/ZZINYMON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=egg&color=D4E157&height=150&section=header" />
+
+mailbox_with_mail: zziny725
 <a href="mailto:zziny725@icloud.com">
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
